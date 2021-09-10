@@ -19,6 +19,7 @@ sol파일 관리는 openZepplin 설치해서 관리하고 있습니다
 2. migrate --reset 해주세요
 3. 가나시없이 메타마스크를 통해 계정 import 해서 돌릴때 RPC_ERROR 나는경우
 메타마스크 설정 들어가서 계정 초기화 해주세요.
+4. client/src/contracts 안의 json파일 모두 삭제후 migrate 다시 해주세요.
 
 화면 설명:
 
